@@ -1,11 +1,53 @@
-<h1 align="center">Hi 👋, I'm Markus</h1>
-<h3 align="center">Second Software Engineering student at Metropolia UAC</h3>
+<div align="center" style="display: inline_block"><br>
+  <h1>Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Markus</h1>
+  <h3>Software Engineering Student @ Metropolia UAS</h3>
 
-- 🔭 I’m currently working on [EffiManager](https://github.com/MakeLord95/EffiManager)
 
-- 📫 How to reach me **juhani.markus@gmail.com**
+<h2>⚡️ Latest Updates</h2>
+<p align="center">
+  •  🔥 Check out my recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic Job searching platform. <br>
+  •  ⚡ Explore my ongoing work on <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application designed for efficient task management. <br>
+  •  🌱 Currently delving into the world of Description and Modeling Methods in Java. <br>
+  •  😄 Fun fact: I specialize as a Restoration Shaman in the realm of World of Warcraft.
+</p>
 
-- ⚡ Fun fact **I main Restoration Shaman in World of Warcraft**
+<div align="center">
+  <h2>📫 Contact Me:</h2>
+  <a href="mailto:juhani.markus@gmail.com">
+    <img src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png" alt="Email" height="40px" width="40px" style="margin-right: 15px;">
+  </a>
+  <a href="https://discordapp.com/users/221537249995522048">
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="35px" width="auto">
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center">🐋 Languages</h2> 
+<div align="center">
+  <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="30px" width="40px">
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30px" width="40px">
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30px" width="40px">
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30px" width="40px">
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30px" width="40px">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30px" width="40px">
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30px" width="40px">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30px" width="30px">
+  <img alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="30px" width="40px">
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30px" width="40px">
+</div>
+
+<h2 align="center">🔧 Tools</h2> 
+<div align="center">
+  <img alt="JetBrains" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="26px">
+  <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px">
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30px" width="40px">
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30px" width="40px">
+  <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px">
+  <img alt="npm" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="26px">
+</div>
+
+<h2 align="center"> My most used languages </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makelord95&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+</div>
