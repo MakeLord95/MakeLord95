@@ -1,6 +1,6 @@
 <div align="center" style="display: inline_block"><br>
   <h1>Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Markus</h1>
-  <h3>Software Engineering Student @ Metropolia UAS</h3>
+  <h3>Software Engineering Student @ <a href="https://www.metropolia.fi/en">Metropolia UAS</a></h3>
 
 
 <h2>⚡️ Latest Updates</h2>
