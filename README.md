@@ -5,9 +5,9 @@
 
 <h2>⚡️ Latest Updates</h2>
 <p align="center">
-  •  🔥 Check out my recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic Job searching platform. <br>
-  •  ⚡ Explore my ongoing work on <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application designed for efficient task management. <br>
-  •  🌱 Currently delving into the world of Description and Modeling Methods in Java. <br>
+  •  🔥 Check out my recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic Job searching platform. <br><br>
+  •  ⚡ Explore my ongoing work on <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application designed for efficient task management. <br><br>
+  •  🌱 Currently delving into the world of Description and Modeling Methods in Java. <br><br>
   •  😄 Fun fact: I specialize as a Restoration Shaman in the realm of World of Warcraft.
 </p>
 
