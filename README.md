@@ -2,17 +2,19 @@
   <h1>Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Markus</h1>
   <h3>2nd Year Software Engineering Student @ <a href="https://www.metropolia.fi/en">Metropolia UAS</a></h3>
 
+<br>
 
-<h2>⚡️ Latest Updates ⚡️</h2>
-<p style="text-align: center;">
-  • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic job-search platform. <br>
-  • ⚡ My freetime project, <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application for efficient task management <br>
-  • 🌱 Currently studying Description and Modeling Methods, User-Centered Design, and Design Models. 
-</p>
+<div align="center" style="display: inline_block">
+  <h2>⚡️ Latest Updates ⚡️</h2>
+    • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">StackConnect</a>, a dynamic job-search platform. <br>
+    • 🌱 My freetime project, <a href="https://github.com/MakeLord95/EffiManager" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">EffiManager</a>, a React application for efficient task management <br>
+    • 🔭 Currently studying Description and Modeling Methods, User-Centered Design, and Design Models. 
+</div>
 
+<br>
 
 <div align="center">
-  <h2>📫 Contact Me:</h2>
+  <h2>📫 Contact Me 📫</h2>
   <a href="mailto:juhani.markus@gmail.com">
     <img src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png" alt="Email" height="40px" width="40px" style="margin-right: 15px;">
   </a>
@@ -21,7 +23,9 @@
   </a>
 </div>
 
-<h2 align="center">🐋 Languages</h2> 
+<br>
+
+<h2 align="center">🐋 Languages 🐋</h2> 
 <div align="center">
   <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="30px" width="40px">
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30px" width="40px">
@@ -35,7 +39,9 @@
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30px" width="40px">
 </div>
 
-<h2 align="center">🔧 Tools</h2> 
+<br>
+
+<h2 align="center">🔧 Tools 🔧</h2> 
 <div align="center">
   <img alt="JetBrains" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="26px">
   <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px">
@@ -44,6 +50,8 @@
   <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px">
   <img alt="npm" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="26px">
 </div>
+
+<br>
 
 <h2 align="center"> My most used languages </h2>
 <div align="center">
