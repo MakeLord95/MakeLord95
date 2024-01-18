@@ -5,9 +5,9 @@
 <br>
 
 <div align="center" style="display: inline_block">
-  <h2>⚡️ Latest Updates ⚡️</h2>
-    • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">StackConnect</a>, a dynamic job-search platform. <br>
-    • 🌱 My freetime project, <a href="https://github.com/MakeLord95/EffiManager" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">EffiManager</a>, a React application for efficient task management <br>
+  <h2>⚡️ What's going on right now ⚡️</h2>
+    • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic job-search platform. <br>
+    • 🌱 My freetime project, <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application for efficient task management <br>
     • 🔭 Currently studying Description and Modeling Methods, User-Centered Design, and Design Models. 
 </div>
 
