@@ -3,13 +3,13 @@
   <h3>Software Engineering Student @ <a href="https://www.metropolia.fi/en">Metropolia UAS</a></h3>
 
 
-<h2>⚡️ Latest Updates</h2>
-<p align="center">
-  •  🔥 Check out my recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic Job searching platform. <br>
-  •  ⚡ Explore my ongoing work on <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application designed for efficient task management. <br>
-  •  🌱 Currently delving into the world of Description and Modeling Methods in Java. <br>
-  •  😄 Fun fact: I specialize as a Restoration Shaman in the realm of World of Warcraft.
+<h2>⚡️ Latest Updates ⚡️</h2>
+<p style="text-align: center;">
+  • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic job-search platform. <br>
+  • ⚡ My freetime project, <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application for efficient task management <br>
+  • 🌱 Currently studying Description and Modeling Methods, User-Centered Design, and Design Models. 
 </p>
+
 
 <div align="center">
   <h2>📫 Contact Me:</h2>
