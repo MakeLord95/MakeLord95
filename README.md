@@ -9,6 +9,7 @@
     • 🔥 My most recent project, <a href="https://stackconnect.onrender.com/">StackConnect</a>, a dynamic job-search platform. <br>
     • 🌱 My freetime project, <a href="https://github.com/MakeLord95/EffiManager">EffiManager</a>, a React application for efficient task management <br>
     • 🔭 Currently studying Description and Modeling Methods, User-Centered Design, and Design Models. <br>
+    • 🧱 I also just started to develop my own plugins for PaperMC (Minecraft server software). <br>
     • 😄 Fun fact: I'm related to Kimi Räikkönen, the retired Finnish F1 driver 
 </div>
 
