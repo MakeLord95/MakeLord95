@@ -20,9 +20,6 @@
   <a href="mailto:juhani.markus@gmail.com">
     <img src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png" alt="Email" height="40px" width="40px" style="margin-right: 15px;">
   </a>
-  <a href="https://discordapp.com/users/221537249995522048">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="35px" width="auto">
-  </a>
 </div>
 
 <br>
